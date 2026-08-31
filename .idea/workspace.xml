@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb68f289-c31a-447c-afc1-277e4027854f" name="Changes" comment="자바 기초">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/CharArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Quiz.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;donghyun-0503&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/donghyun-0503/java-class.git&quot;,
+    &quot;accountId&quot;: &quot;107d49ab-a50c-4636-9ed9-7839f52c5630&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3HhiKbcCuvkOnU2JwnKfe70n4uT" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayCopy.executor": "Run",
+    "Application.ArrayEx1.executor": "Run",
+    "Application.ArrayEx2.executor": "Run",
+    "Application.ArrayEx3.executor": "Run",
+    "Application.ArrayTest.executor": "Run",
+    "Application.ArrayTest2.executor": "Run",
+    "Application.ArrayTest4.executor": "Run",
+    "Application.ArrayTest5.executor": "Run",
+    "Application.ArrayTest6.executor": "Run",
+    "Application.BreakEx.executor": "Run",
+    "Application.CharArray.executor": "Run",
+    "Application.CharacterEx1.executor": "Run",
+    "Application.CharacterEx3.executor": "Run",
+    "Application.ConditionEx1.executor": "Run",
+    "Application.ConditionEx2.executor": "Run",
+    "Application.ConditionEx3.executor": "Run",
+    "Application.ConditionEx4.executor": "Run",
+    "Application.ConditionEx5.executor": "Run",
+    "Application.ConditionEx6.executor": "Run",
+    "Application.ConditionEx7.executor": "Run",
+    "Application.ConditionEx8.executor": "Run",
+    "Application.Constant.executor": "Run",
+    "Application.DoubleEx1.executor": "Run",
+    "Application.Ex3.executor": "Run",
+    "Application.ExplicitConversion2.executor": "Run",
+    "Application.ForEx2.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.IfExample1.executor": "Run",
+    "Application.ImplicitConversion1.executor": "Run",
+    "Application.ImplicitConversion2.executor": "Run",
+    "Application.LoopEx1.executor": "Run",
+    "Application.LoopEx2.executor": "Run",
+    "Application.LoopEx3.executor": "Run",
+    "Application.LoopEx4.executor": "Run",
+    "Application.LoopEx5.executor": "Run",
+    "Application.LoopEx6.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.OperationAssignment1.executor": "Run",
+    "Application.OperationAssignment2.executor": "Run",
+    "Application.OperationAssignment3.executor": "Run",
+    "Application.OperationAssignment4.executor": "Run",
+    "Application.OperationAssignment5.executor": "Run",
+    "Application.OperationAssignment6.executor": "Run",
+    "Application.OperationEx1.executor": "Run",
+    "Application.OperationEx2.executor": "Run",
+    "Application.OperationEx3.executor": "Run",
+    "Application.OperationEx4.executor": "Run",
+    "Application.OperationEx5.executor": "Run",
+    "Application.Quiz.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
+    "Application.SwitchCase4.executor": "Run",
+    "Application.SwitchCase5.executor": "Run",
+    "Application.TypeInference.executor": "Run",
+    "Application.VarAssignment1.executor": "Run",
+    "Application.VarAssignment2.executor": "Run",
+    "Application.VarAssignment3.executor": "Run",
+    "Application.VarAssignment4.executor": "Run",
+    "Application.Variable2.executor": "Run",
+    "Application.While.executor": "Run",
+    "Application.WhileEx1.executor": "Run",
+    "Application.WhileEx2.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "introduce.parameter.lambda": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/dgsw25/Desktop/java_class",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/dgsw25/IdeaProjects/java_class/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="array" />
+      <recent name="loop" />
+      <recent name="Ifexample" />
+      <recent name="chapter2" />
+      <recent name="operator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArrayEx3">
+    <configuration name="ArrayEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayEx1" />
+      <module name="java_class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayEx2" />
+      <module name="java_class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayEx3" />
+      <module name="java_class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayTest5" />
+      <module name="java_class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayTest6" />
+      <module name="java_class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayEx3" />
+        <item itemvalue="Application.ArrayEx2" />
+        <item itemvalue="Application.ArrayEx1" />
+        <item itemvalue="Application.ArrayTest6" />
+        <item itemvalue="Application.ArrayTest5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb68f289-c31a-447c-afc1-277e4027854f" name="Changes" comment="" />
+      <created>1786326639566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786326639566</updated>
+      <workItem from="1786326640791" duration="4808000" />
+      <workItem from="1786492485534" duration="2712000" />
+      <workItem from="1786495287608" duration="4214000" />
+      <workItem from="1787097385275" duration="204000" />
+      <workItem from="1787097602437" duration="15000" />
+      <workItem from="1787097625034" duration="1659000" />
+      <workItem from="1787099298949" duration="917000" />
+      <workItem from="1787101108793" duration="4862000" />
+      <workItem from="1787533901861" duration="7513000" />
+      <workItem from="1787702029679" duration="8755000" />
+      <workItem from="1788137815973" duration="7173000" />
+    </task>
+    <task id="LOCAL-00001" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1786495949662</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1786495949663</updated>
+    </task>
+    <task id="LOCAL-00002" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1786505554473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1786505554473</updated>
+    </task>
+    <task id="LOCAL-00003" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1787099952949</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1787099952949</updated>
+    </task>
+    <task id="LOCAL-00004" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1787534603175</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1787534603175</updated>
+    </task>
+    <task id="LOCAL-00005" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1787575876518</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1787575876518</updated>
+    </task>
+    <task id="LOCAL-00006" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1787705626284</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1787705626284</updated>
+    </task>
+    <task id="LOCAL-00007" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1787740633682</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1787740633682</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="자바 기초" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바 기초" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
