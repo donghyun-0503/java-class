@@ -5,20 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb68f289-c31a-447c-afc1-277e4027854f" name="Changes" comment="자바 기초">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayTest6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/CharArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/PhoneStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hiding/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hiding/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hiding/company/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hiding/company/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hiding/customer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hiding/developer/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test1_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test1_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test1_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test1_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test1_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test1_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +62,10 @@
     "Application.ArrayEx1.executor": "Run",
     "Application.ArrayEx2.executor": "Run",
     "Application.ArrayEx3.executor": "Run",
+    "Application.ArrayEx4.executor": "Run",
+    "Application.ArrayEx5.executor": "Run",
+    "Application.ArrayEx6.executor": "Run",
+    "Application.ArrayEx7.executor": "Run",
     "Application.ArrayTest.executor": "Run",
     "Application.ArrayTest2.executor": "Run",
     "Application.ArrayTest4.executor": "Run",
@@ -78,10 +84,12 @@
     "Application.ConditionEx7.executor": "Run",
     "Application.ConditionEx8.executor": "Run",
     "Application.Constant.executor": "Run",
+    "Application.Customer.executor": "Run",
     "Application.DoubleEx1.executor": "Run",
     "Application.Ex3.executor": "Run",
     "Application.ExplicitConversion2.executor": "Run",
     "Application.ForEx2.executor": "Run",
+    "Application.FunctionTest.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.IfExample1.executor": "Run",
     "Application.ImplicitConversion1.executor": "Run",
@@ -93,6 +101,7 @@
     "Application.LoopEx5.executor": "Run",
     "Application.LoopEx6.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Manager.executor": "Run",
     "Application.OperationAssignment1.executor": "Run",
     "Application.OperationAssignment2.executor": "Run",
     "Application.OperationAssignment3.executor": "Run",
@@ -104,7 +113,10 @@
     "Application.OperationEx3.executor": "Run",
     "Application.OperationEx4.executor": "Run",
     "Application.OperationEx5.executor": "Run",
+    "Application.PersonTest.executor": "Run",
     "Application.Quiz.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.StudentTest.executor": "Run",
     "Application.SwitchCase.executor": "Run",
     "Application.SwitchCase4.executor": "Run",
     "Application.SwitchCase5.executor": "Run",
@@ -117,6 +129,11 @@
     "Application.While.executor": "Run",
     "Application.WhileEx1.executor": "Run",
     "Application.WhileEx2.executor": "Run",
+    "Application.hiding.StudentTest.executor": "Run",
+    "Application.test1_11.executor": "Run",
+    "Application.test1_13.executor": "Run",
+    "Application.test1_14.executor": "Run",
+    "Application.test1_16.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -132,26 +149,26 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/dgsw25/IdeaProjects/java_class/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.general",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
       <recent name="array" />
       <recent name="loop" />
       <recent name="Ifexample" />
       <recent name="chapter2" />
-      <recent name="operator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayEx3">
-    <configuration name="ArrayEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ArrayEx1" />
+  <component name="RunManager" selected="Application.Test1_19">
+    <configuration name="Test1_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test1_12" />
       <module name="java_class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ArrayEx2" />
+    <configuration name="Test1_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test1_13" />
       <module name="java_class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ArrayEx3" />
+    <configuration name="Test1_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test1_14" />
       <module name="java_class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayTest5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ArrayTest5" />
+    <configuration name="Test1_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test1_19" />
       <module name="java_class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayTest6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ArrayTest6" />
+    <configuration name="hiding.StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hiding.StudentTest" />
       <module name="java_class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="hiding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayEx3" />
-        <item itemvalue="Application.ArrayEx2" />
-        <item itemvalue="Application.ArrayEx1" />
-        <item itemvalue="Application.ArrayTest6" />
-        <item itemvalue="Application.ArrayTest5" />
+        <item itemvalue="Application.Test1_19" />
+        <item itemvalue="Application.Test1_14" />
+        <item itemvalue="Application.Test1_13" />
+        <item itemvalue="Application.Test1_12" />
+        <item itemvalue="Application.hiding.StudentTest" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +263,12 @@
       <workItem from="1787101108793" duration="4862000" />
       <workItem from="1787533901861" duration="7513000" />
       <workItem from="1787702029679" duration="8755000" />
-      <workItem from="1788137815973" duration="7173000" />
+      <workItem from="1788137815973" duration="7186000" />
+      <workItem from="1788306820608" duration="7052000" />
+      <workItem from="1788347963366" duration="6000" />
+      <workItem from="1788741931666" duration="5776000" />
+      <workItem from="1788911550239" duration="7983000" />
+      <workItem from="1789349417238" duration="3943000" />
     </task>
     <task id="LOCAL-00001" summary="자바 기초">
       <option name="closed" value="true" />
@@ -304,7 +326,47 @@
       <option name="project" value="LOCAL" />
       <updated>1787740633682</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1788171737347</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1788171737347</updated>
+    </task>
+    <task id="LOCAL-00009" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1788316878622</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1788316878622</updated>
+    </task>
+    <task id="LOCAL-00010" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1788914102450</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1788914102450</updated>
+    </task>
+    <task id="LOCAL-00011" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1788914872371</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1788914872371</updated>
+    </task>
+    <task id="LOCAL-00012" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1788914883004</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1788914883004</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
