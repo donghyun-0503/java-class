@@ -5,21 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb68f289-c31a-447c-afc1-277e4027854f" name="Changes" comment="자바 기초">
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/PhoneStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hiding/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hiding/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hiding/company/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hiding/company/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hiding/customer/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hiding/developer/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test1_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test1_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test1_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test1_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test1_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test1_19.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +34,10 @@
     &quot;accountId&quot;: &quot;107d49ab-a50c-4636-9ed9-7839f52c5630&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -56,119 +45,155 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayCopy.executor": "Run",
-    "Application.ArrayEx1.executor": "Run",
-    "Application.ArrayEx2.executor": "Run",
-    "Application.ArrayEx3.executor": "Run",
-    "Application.ArrayEx4.executor": "Run",
-    "Application.ArrayEx5.executor": "Run",
-    "Application.ArrayEx6.executor": "Run",
-    "Application.ArrayEx7.executor": "Run",
-    "Application.ArrayTest.executor": "Run",
-    "Application.ArrayTest2.executor": "Run",
-    "Application.ArrayTest4.executor": "Run",
-    "Application.ArrayTest5.executor": "Run",
-    "Application.ArrayTest6.executor": "Run",
-    "Application.BreakEx.executor": "Run",
-    "Application.CharArray.executor": "Run",
-    "Application.CharacterEx1.executor": "Run",
-    "Application.CharacterEx3.executor": "Run",
-    "Application.ConditionEx1.executor": "Run",
-    "Application.ConditionEx2.executor": "Run",
-    "Application.ConditionEx3.executor": "Run",
-    "Application.ConditionEx4.executor": "Run",
-    "Application.ConditionEx5.executor": "Run",
-    "Application.ConditionEx6.executor": "Run",
-    "Application.ConditionEx7.executor": "Run",
-    "Application.ConditionEx8.executor": "Run",
-    "Application.Constant.executor": "Run",
-    "Application.Customer.executor": "Run",
-    "Application.DoubleEx1.executor": "Run",
-    "Application.Ex3.executor": "Run",
-    "Application.ExplicitConversion2.executor": "Run",
-    "Application.ForEx2.executor": "Run",
-    "Application.FunctionTest.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.IfExample1.executor": "Run",
-    "Application.ImplicitConversion1.executor": "Run",
-    "Application.ImplicitConversion2.executor": "Run",
-    "Application.LoopEx1.executor": "Run",
-    "Application.LoopEx2.executor": "Run",
-    "Application.LoopEx3.executor": "Run",
-    "Application.LoopEx4.executor": "Run",
-    "Application.LoopEx5.executor": "Run",
-    "Application.LoopEx6.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Manager.executor": "Run",
-    "Application.OperationAssignment1.executor": "Run",
-    "Application.OperationAssignment2.executor": "Run",
-    "Application.OperationAssignment3.executor": "Run",
-    "Application.OperationAssignment4.executor": "Run",
-    "Application.OperationAssignment5.executor": "Run",
-    "Application.OperationAssignment6.executor": "Run",
-    "Application.OperationEx1.executor": "Run",
-    "Application.OperationEx2.executor": "Run",
-    "Application.OperationEx3.executor": "Run",
-    "Application.OperationEx4.executor": "Run",
-    "Application.OperationEx5.executor": "Run",
-    "Application.PersonTest.executor": "Run",
-    "Application.Quiz.executor": "Run",
-    "Application.Student.executor": "Run",
-    "Application.StudentTest.executor": "Run",
-    "Application.SwitchCase.executor": "Run",
-    "Application.SwitchCase4.executor": "Run",
-    "Application.SwitchCase5.executor": "Run",
-    "Application.TypeInference.executor": "Run",
-    "Application.VarAssignment1.executor": "Run",
-    "Application.VarAssignment2.executor": "Run",
-    "Application.VarAssignment3.executor": "Run",
-    "Application.VarAssignment4.executor": "Run",
-    "Application.Variable2.executor": "Run",
-    "Application.While.executor": "Run",
-    "Application.WhileEx1.executor": "Run",
-    "Application.WhileEx2.executor": "Run",
-    "Application.hiding.StudentTest.executor": "Run",
-    "Application.test1_11.executor": "Run",
-    "Application.test1_13.executor": "Run",
-    "Application.test1_14.executor": "Run",
-    "Application.test1_16.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "introduce.parameter.lambda": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/dgsw25/Desktop/java_class",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/dgsw25/IdeaProjects/java_class/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayCopy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayTest2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayTest4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayTest5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayTest6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Book.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BookArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BookArray2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BookStore.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BreakEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CallAnotherConst.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarFactoryTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharacterEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharacterEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompanyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionEx5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionEx6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionEx7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionEx8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constant.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Customer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoubleEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnhancedForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExplicitConversion2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfExample1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ImplicitConversion1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ImplicitConversion2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopEx5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopEx6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Manager.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObjectCopy1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObjectCopy2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationAssignment1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationAssignment2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationAssignment3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationAssignment4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationAssignment5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationAssignment6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationEx5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrderTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PersonTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PhoneStoreTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice18.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice21.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Quiz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchCase4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchCase5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TakeTrans.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThisExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeInference.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarAssignment1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarAssignment2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarAssignment3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarAssignment4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variable2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hiding.StudentTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test1_11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test1_13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test1_14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test1_16.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;introduce.parameter.lambda&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dgsw25/Desktop/java_class&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/dgsw25/IdeaProjects/java_class/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="test" />
       <recent name="array" />
+      <recent name="staticdemo" />
+      <recent name="test.prac1" />
+      <recent name="test" />
       <recent name="loop" />
-      <recent name="Ifexample" />
-      <recent name="chapter2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test1_19">
-    <configuration name="Test1_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test1_12" />
+  <component name="RunManager" selected="Application.ArrayListTest">
+    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayListTest" />
       <module name="java_class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test1_13" />
+    <configuration name="CarFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="car.CarFactoryTest" />
       <module name="java_class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="car.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test1_14" />
+    <configuration name="EnhancedForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.EnhancedForLoop" />
       <module name="java_class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test1_19" />
+    <configuration name="ObjectCopy1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ObjectCopy1" />
       <module name="java_class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hiding.StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hiding.StudentTest" />
+    <configuration name="ObjectCopy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ObjectCopy2" />
       <module name="java_class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hiding.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,11 +255,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test1_19" />
-        <item itemvalue="Application.Test1_14" />
-        <item itemvalue="Application.Test1_13" />
-        <item itemvalue="Application.Test1_12" />
-        <item itemvalue="Application.hiding.StudentTest" />
+        <item itemvalue="Application.ArrayListTest" />
+        <item itemvalue="Application.EnhancedForLoop" />
+        <item itemvalue="Application.ObjectCopy2" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +291,15 @@
       <workItem from="1788347963366" duration="6000" />
       <workItem from="1788741931666" duration="5776000" />
       <workItem from="1788911550239" duration="7983000" />
-      <workItem from="1789349417238" duration="3943000" />
+      <workItem from="1789349417238" duration="4168000" />
+      <workItem from="1789480486122" duration="10823000" />
+      <workItem from="1789952087715" duration="7007000" />
+      <workItem from="1790120947037" duration="6901000" />
+      <workItem from="1790556742360" duration="9864000" />
+      <workItem from="1790725946970" duration="2793000" />
+      <workItem from="1790844006585" duration="1000" />
+      <workItem from="1791771473164" duration="2519000" />
+      <workItem from="1791935496215" duration="363000" />
     </task>
     <task id="LOCAL-00001" summary="자바 기초">
       <option name="closed" value="true" />
@@ -366,7 +397,151 @@
       <option name="project" value="LOCAL" />
       <updated>1788914883004</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1789437434814</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1789437434815</updated>
+    </task>
+    <task id="LOCAL-00014" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1789437452950</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1789437452950</updated>
+    </task>
+    <task id="LOCAL-00015" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1789437460295</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1789437460295</updated>
+    </task>
+    <task id="LOCAL-00016" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1789437475915</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1789437475915</updated>
+    </task>
+    <task id="LOCAL-00017" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1789437485689</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1789437485689</updated>
+    </task>
+    <task id="LOCAL-00018" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1789437493216</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1789437493216</updated>
+    </task>
+    <task id="LOCAL-00019" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1789515922824</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1789515922825</updated>
+    </task>
+    <task id="LOCAL-00020" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1789519850816</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1789519850816</updated>
+    </task>
+    <task id="LOCAL-00021" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1789952095454</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1789952095454</updated>
+    </task>
+    <task id="LOCAL-00022" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1789957249227</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1789957249227</updated>
+    </task>
+    <task id="LOCAL-00023" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1790044559335</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1790044559335</updated>
+    </task>
+    <task id="LOCAL-00024" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1790128593128</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1790128593128</updated>
+    </task>
+    <task id="LOCAL-00025" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1790128609922</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1790128609922</updated>
+    </task>
+    <task id="LOCAL-00026" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1790560603042</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1790560603042</updated>
+    </task>
+    <task id="LOCAL-00027" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1790591112129</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1790591112129</updated>
+    </task>
+    <task id="LOCAL-00028" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1790729640465</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1790729640465</updated>
+    </task>
+    <task id="LOCAL-00029" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1790734476712</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1790734476712</updated>
+    </task>
+    <task id="LOCAL-00030" summary="자바 기초">
+      <option name="closed" value="true" />
+      <created>1791772865646</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1791772865646</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
