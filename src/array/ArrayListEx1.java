@@ -17,5 +17,7 @@ public class ArrayListEx1 {
         for (Student student : students) {
             student.showInfo();
         }
+
+        students.removeAll(students);
     }
 }
