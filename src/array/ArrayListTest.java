@@ -15,5 +15,25 @@ public class ArrayListTest {
 //        for (int i = 0; i < book.size(); i++) {
 //            book.get(i).showBookInfo();
 //        }
+
+        for (Book bookI : book) {
+            bookI.showBookInfo();
+        }
+
+        book.remove(2);
+
+        System.out.println("\n3번째 항목 제거");
+        for (Book bookI : book) {
+            bookI.showBookInfo();
+        }
+
+        book.removeAll(book);
+        System.out.println("\n전체 항목 제거");
+        for (Book bookI : book) {
+            bookI.showBookInfo();
+        }
+
+        System.out.println("\n배열이 비었는지 확인");
+        System.out.println(book.isEmpty());
     }
 }
