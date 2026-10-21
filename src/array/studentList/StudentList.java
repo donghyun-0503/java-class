@@ -12,7 +12,7 @@ public class StudentList {
         ArrayList<Student> list = new ArrayList<Student>();
 
         for (int j = 0; j < name.length; j++) {
-            list.add(new Student(j++, name[j]));
+            list.add(new Student(i++, name[j]));
         }
 
         for (Student s : list) {
