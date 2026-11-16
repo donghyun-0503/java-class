@@ -8,17 +8,27 @@ public class VIPCustomer extends Customer {
 
     public VIPCustomer(int customerID, String customerName, int agentId) {
         super(customerID, customerName);
-        saleRatio = 0.1;
-        bonusRatio = 0.05;
-        customerGrade = "VIP";
-        System.out.println("하위 클래스 VIPCustomer(int, String) 생성자 호출");
+        initVIPCustomer();
+//        System.out.println("하위 클래스 VIPCustomer(int, String) 생성자 호출");
     }
 
     public int getAgentId() {
         return agentId;
     }
 
+    @Override
+    public int calcPrice(int price) {
+        bonusPoint += (int) (price * bonusRatio);
+        return price - (int) (price * saleRatio);
+    }
+
     public String showVIPInfo() {
         return super.showCustomerInfo() + "\n담당 상담원 아이디는 " + agentId + "입니다.";
+    }
+
+    private void initVIPCustomer() {
+        saleRatio = 0.1;
+        bonusRatio = 0.05;
+        customerGrade = "VIP";
     }
 }
